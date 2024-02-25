@@ -14,8 +14,7 @@ export default function Navbar() {
     <nav className="navbar">
       <ul>
         <li className="logo">
-          <img src={Temple} alt="dojo logo" />
-          <span>The Dojo</span>
+          <span>AIProStack Solutions</span>
         </li>
 
         {!user && (
